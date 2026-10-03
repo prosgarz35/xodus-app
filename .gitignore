@@ -1,0 +1,23 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project/
+.classpath/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Xodus and James runtime data
+var/
+conf/
+backups/
